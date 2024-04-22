@@ -1,0 +1,25 @@
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    width: 20%;
+    height: 20px;
+    margin-top: 0.5em;
+    border-radius: 10px;
+    align-self: center;
+    font-size: 20
+}
+
+.vermelho{
+    background-color:  rgb(255, 0, 0);
+}
+
+.verde{
+    background-color:  green;
+}
+
+.btn:hover{
+    cursor: pointer;
+    background-color: cadetblue;
+}
